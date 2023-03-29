@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Error</string>
+    <string name="Titulo">BASE DE DATOS SQLite</string>
+    <string name="Nombre">Ingrese Su Nombre: </string>
+    <string name="Cedula">Ingrese Su Cedula: </string>
+    <string name="Telefono">Ingrese Su Telefono: </string>
+    <string name="Btt1">Registrar</string>
+    <string name="Btt2">Consultar</string>
+    <string name="Direccion">Ingrese Su Direccion: </string>
+</resources>
